@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <div className='navbar'>
-      <div>
+      <div style={{marinTop:"100px"}}>
        <h3 style={{color:'white',fontSize:"larger"}}> Coding Made Simple</h3>
       </div>
       <div className='navContainer'>
