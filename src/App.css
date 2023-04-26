@@ -1,11 +1,11 @@
-.nav{
+.navbar{
   display: flex;
   justify-content: space-around;
   background-color: rgb(176, 11, 11);
   height: 70px;
   align-items: center;
 }
-.links{
+.btn{
   margin: 15px;
   text-decoration: none;
   color: white;
