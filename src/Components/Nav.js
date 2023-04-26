@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div className='navbar'>
       <div>
-       <h3 style={{color:'white',fontSize:"larger"}}> Koding Made Sample</h3>
+       <h3 style={{color:'white',fontSize:"larger"}}> Coding Made Simple</h3>
       </div>
       <div className='navContainer'>
         <button className='btn'>Bootstrap</button>
