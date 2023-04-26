@@ -17,8 +17,9 @@ button:hover{
   background-color: maroon;
   height: 70px;
 }
-.heading{
+.home_Container{
   text-align: center;
+  marginTop:"200px";
 }
 
 .App-header {
