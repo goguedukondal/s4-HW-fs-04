@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Home() {
+function HomeComponent() {
   return (
     <div className='heading'>
       <h1>Customize Bootstrap Navbar</h1>
@@ -9,4 +9,4 @@ function Home() {
   )
 }
 
-export default Home
+export default HomeComponent
