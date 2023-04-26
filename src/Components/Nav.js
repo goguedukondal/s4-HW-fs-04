@@ -1,18 +1,18 @@
 import React from 'react'
 
-function Nav() {
+function Navbar() {
   return (
-    <div className='nav'>
+    <div className='navbar'>
       <div>
        <h3 style={{color:'white',fontSize:"larger"}}> Koding Made Sample</h3>
       </div>
-      <div className='nav-links'>
-        <button className='links'>Bootstrap</button>
-        <button className='links'>Themes</button>
-        <button className='links'>Blog</button>
+      <div className='navContainer'>
+        <button className='btn'>Bootstrap</button>
+        <button className='btn'>Themes</button>
+        <button className='btn'>Blog</button>
       </div>
     </div>
   )
 }
 
-export default Nav
+export default Navbar
